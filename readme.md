@@ -31,3 +31,6 @@ At this point, you can click the 'save' button and the 'commit' button. The endi
 
 And it's done! Go to twitch and test if it works correctly. If it doesn't, let me know and I'll try to fix said issue.
 
+* * *
+
+If you use this method, I also emplore you to consider subscribing to the twitch streamers you watch regularly. As this would mean slightly reduced ad revenue from each person who uses this
