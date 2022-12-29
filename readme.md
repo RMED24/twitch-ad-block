@@ -21,3 +21,13 @@ The settings window should open in a new tab, which is great! On the settings ta
 
 ![image](https://user-images.githubusercontent.com/81475204/209982135-20fa2e0c-42b4-49d5-ba9f-dc9f602ac262.png)
 
+Now you want to go to the 'My rules' tab at the top and [copy all the text that is on this page](https://raw.githubusercontent.com/RMED24/twitch-ad-block/main/raw.txt). Once you've done that, paste that text into the bottom temporary rules in the box on the right:
+
+![image](https://user-images.githubusercontent.com/81475204/209983807-8f7ea513-2330-4c25-96c8-8561e3a37148.png)
+
+At this point, you can click the 'save' button and the 'commit' button. The ending result should look something like this: 
+
+![image](https://user-images.githubusercontent.com/81475204/209984882-348eae63-42b6-4331-8c08-3ec75785d9a0.png)
+
+And it's done! Go to twitch and test if it works correctly. If it doesn't, let me know and I'll try to fix said issue.
+
