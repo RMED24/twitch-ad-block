@@ -2,5 +2,6 @@ clips.twitch.tv * 3p-frame block
 www.twitch.tv * 3p-script block
 clips.twitch.tv twitchcdn.net * noop
 clips.twitch.tv twitch.map.fastly.net * noop
+www.twitch.tv frankerfacez.com * noop
 www.twitch.tv twitch.map.fastly.net * noop
 www.twitch.tv twitchcdn.net * noop
