@@ -1,6 +1,6 @@
 # Twitch Adblock solution
 
-Right now this has been somewhat inconsistent. This is being tested and improved in 
+Right now this has been somewhat inconsistent. This is being tested and improved in [#3](https://github.com/RMED24/twitch-ad-block/issues/3). It should still work but just note that it may not be perfect yet
 
 This is exactly what it says on the tin. A tool to circumvent the extreme measures put in place on twitch which actively blocks adverts. 
 
