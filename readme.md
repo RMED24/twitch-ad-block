@@ -1,6 +1,6 @@
 # Twitch Adblock solution
 
-Stuff is working great now. If you have a previous version be sure to update. If you're new here, welcome!
+## DO NOT USE THIS ANY MORE. TWITCH HAS BROKEN THIS METHOD!
 
 This is exactly what it says on the tin. A tool to circumvent the extreme measures put in place on twitch which actively blocks adverts. 
 
